@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SIR-NEW
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning PYTHON PROGRAMMING LANGUAGE
-- 💞️ I’m looking to collaborate on PYTHON PROJECTS TO ENHANCE MY SKILLS
+- 💞️ I’m looking to collaborate on PYTHON PROJECTS TO ENHANCE MY SKILLS 
 - 📫 How to reach me THROUGH MY EMAIL newtonmuirurimuriithi@gmail.com
 
 <!---
